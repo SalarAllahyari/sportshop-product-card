@@ -1,2 +1,19 @@
-# sportshop-product-card
-A simple sports product card built with HTML and CSS, practicing Float, positioning, pseudo-classes, and pseudo-elements.
+
+# SportShop Product Card
+
+A sports product card built with HTML and CSS.
+
+## Technologies
+
+- HTML5
+- CSS3
+
+## Concepts Practiced
+
+- Float
+- Clear
+- Positioning
+- Pseudo-classes
+- Pseudo-elements
+- Box Model
+- Typography
